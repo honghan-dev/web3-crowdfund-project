@@ -14,8 +14,6 @@ Welcome to the Web3 Crowdfunding project! This project is a decentralized crowdf
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) - JavaScript runtime
-- [Truffle](https://www.truffleframework.com/) - Development framework for Ethereum
-- [Ganache](https://www.truffleframework.com/ganache) - Personal blockchain for Ethereum development
 - [Metamask](https://metamask.io/) - Browser extension for managing Ethereum accounts
 
 ### Installation
